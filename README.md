@@ -1,9 +1,9 @@
-# Awesome Honkai 3^rd^
+# Awesome Honkai 3rd
 
 > 程序员也能空中劈叉
 
 <!--ts-->
-   * [Awesome Honkai 3^rd^](#awesome-honkai-3rd)
+   * [Awesome Honkai 3rd](#awesome-honkai-3rd)
       * [游戏外辅助程序](#游戏外辅助程序)
 
 <!-- Added by: simon3000, at:  -->
