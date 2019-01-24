@@ -163,8 +163,10 @@ gh_toc(){
             fi
             echo
             echo "!! TOC was added into: '$gh_src'"
-            echo "!! Origin version of the file: '${gh_src}${ext}'"
-            echo "!! TOC added into a separate file: '${toc_path}'"
+            rm "${toc_path}"
+            rm "${gh_src}${ext}"
+            # echo "!! Origin version of the file: '${gh_src}${ext}'"
+            # echo "!! TOC added into a separate file: '${toc_path}'"
             echo
         fi
     fi
