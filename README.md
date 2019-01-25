@@ -6,17 +6,18 @@
 
 [Honkai Impact 3rd Official Site](http://www.global.honkaiimpact3.com)
 
-###目录
+### 目录
 
 <!--ts-->
    * [Awesome Honkai 3rd](#awesome-honkai-3rd)
+         * [目录](#目录)
       * [微信公众号](#微信公众号)
       * [UP主](#up主)
       * [Wiki](#wiki)
       * [社区](#社区)
       * [游戏外辅助程序](#游戏外辅助程序)
 
-<!-- Added by: simon3000, at: 2019年 1月26日 星期六 03时50分15秒 CST -->
+<!-- Added by: simon3000, at: 2019年 1月26日 星期六 03时53分13秒 CST -->
 
 <!--te-->
 
