@@ -15,7 +15,7 @@
 
 ## 微信公众号
 
-- 崩坏3 `benghuai3` ==官方==
+- 崩坏3 `benghuai3` ![官方](https://img.shields.io/badge/官-方-%23555.svg)
 
 - 崩坏3通讯中心 `bh3news`
 
@@ -25,7 +25,7 @@
 
 ## 社区
 
-- [米游社](https://bbs.mihoyo.com/) ==官方==
+- [米游社](https://bbs.mihoyo.com/) ![官方](https://img.shields.io/badge/官-方-%23555.svg)
 - [崩坏3 NGA玩家社区](http://nga.178.com/thread.php?fid=549)
 
 ## 游戏外辅助程序
