@@ -35,6 +35,8 @@
 - [卡特亚](https://space.bilibili.com/43222001)
 - [赫箩的苹果](https://space.bilibili.com/653768)
 - [肥羊羊羊肥](https://space.bilibili.com/5140091)
+- [游戏彩笔](https://space.bilibili.com/1320581)
+- [云喵喵呜](https://space.bilibili.com/52914908)
 
 ## Wiki
 
